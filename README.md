@@ -5,7 +5,9 @@ This repository is the official implementation of "[Environment-Aware Dynamic Gr
 [![Black Logo](framework.png)](https://openreview.net/forum?id=n8JWIzYPRz)
 <p align="center">
   <a href="https://github.com/RingBDStack/EAGLE/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-orange" /></a> &nbsp; &nbsp;
-  <a href="https://github.com/ambv/black"><img alt="Code Style" src="https://img.shields.io/badge/code%20style-black-000000.svg" /></a>
+  <a href="https://github.com/ambv/black"><img alt="Code Style" src="https://img.shields.io/badge/code%20style-black-000000.svg" /></a> &nbsp; &nbsp;
+  <img src="https://img.shields.io/github/stars/RingBDStack/EAGLE?color=yellow&label=Star" alt="Stars" > &nbsp; &nbsp;
+  <img src="https://img.shields.io/github/forks/RingBDStack/EAGLE?color=blue&label=Fork" alt="Forks" >
 </p>
 
 ------
